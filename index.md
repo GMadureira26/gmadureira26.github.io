@@ -1,6 +1,16 @@
-# Gustavo Madureira
+---
+layout: home
+title: "Início"
+---
 
-Bem-vindo ao meu site acadêmico!  
-Aqui você encontra minhas informações, projetos e experiências.
+# Olá, eu sou o Gustavo 👋
 
-Em construção 🚧
+Atuo no mercado financeiro, sou estudante de programação e este é o meu site acadêmico/profissional.
+
+Aqui você encontra:
+
+- 📄 Meu currículo  
+- 📊 Projetos e iniciativas  
+- 📚 Publicações  
+- 📬 Formas de contato  
+
