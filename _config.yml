@@ -1,4 +1,11 @@
 title: "Gustavo Madureira"
 description: "Site acadêmico e profissional"
 theme: minima
-author: "Gustavo Lopes Rangel Madureira"
+
+# Links do menu
+header_pages:
+  - index.md
+  - curriculo.md
+  - projetos.md
+  - publicacoes.md
+  - contato.md
